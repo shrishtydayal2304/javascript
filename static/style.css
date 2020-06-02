@@ -15,7 +15,7 @@ body::before{
     height: 700px;
     top: 0px;
     z-index: -1;
-    opacity: 0.6;
+    opacity: 1.0;
     
     position: absolute;
     background: url("/static/rawImage.jpg")  no-repeat center center;
