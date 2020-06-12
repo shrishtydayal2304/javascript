@@ -1,30 +1,5 @@
-// video 71
-// const express = require("express")
-// const app = express();
-// const port =80;
-// app.use('/static',express.static('static'))
-
-// app.get("/",(req,res)=>{
-//     res.send("this is my home page of first express app")
-// });
-// app.get("/about",(req,res)=>{
-//     res.send("this is my about page of first express app");
-// });
-// app.post("/about",(req,res)=>{
-//     res.send("this is my about page of first express app");
-// });
-// app.post("/this",(req,res)=>{
-//     res.status(404).send("this is my about page of first express app");
-// });
-
-// app.listen(port, ()=>{
-//     console.log(`the app started succesfullyon port ${port}`)
-// })
 
 
-
-
-// video 72
 //require IS THE INBUILT FUNCTION TO INCLUDE THE MODULES THAT EXIT IN THE SEPARTE FILE IN NODE.JS
 
 const express = require("express");
