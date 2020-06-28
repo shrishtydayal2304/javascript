@@ -1,2 +1,2 @@
 # javascript
-Diffrent websites code using raw html in pug template engine and Nodejs for backend 
+Different small projects using html, css, javascript,MongoDB, express framework and Nodejs.
